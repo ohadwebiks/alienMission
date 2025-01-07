@@ -1,0 +1,7 @@
+.SoldierList{
+    display: flex;
+    gap: 10px;
+    max-width: 50%;
+    flex-wrap: wrap;
+    justify-content: center;
+}
